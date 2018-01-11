@@ -166,6 +166,8 @@ client.on('guildMemberRemove', member => {
 
 //Command list
 //
+//TODO: add moderator commands
+//
 // avatar
 // art
 // meme
