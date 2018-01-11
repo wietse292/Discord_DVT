@@ -1,0 +1,17 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wietse292",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "discord.js": "^11.2.1",
+    "fs": "0.0.1-security",
+    "sloc": "^0.2.0"
+  }
+}
